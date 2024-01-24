@@ -1,9 +1,9 @@
 # About
 This project aims to search for records in a REDCap project based on certain filtering criteria and delete the record.
 
-# .env
+## .env
 
-Alter .env file with your REDCAP configs.
+Create .env file with your REDCAP configs.
 
 ```env
 
@@ -13,7 +13,7 @@ API_KEY        =
 
 ```
 
-# FilterLogic
+## FilterLogic
 Alter the filterLogic, ex:
 
 ```python
